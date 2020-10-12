@@ -1,0 +1,43 @@
+body {
+    color: #fff;
+    background: linear-gradient(to right, #1d5286, #123456);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.singlePlaylist {
+    border: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.suggest {
+    border: 1px solid black;
+    margin: 20px auto
+}
+
+select {
+    height: 30px;
+}
+
+input {
+    height: 30px;
+}
+
+.playlist-title {
+    color: black;
+    font-weight: bold;
+}
+
+#playlists {
+    margin: 10px 0;
+}
+
+img {
+    width: 18rem;
+}
+
+.card-title, .card-subtitle {
+    color: black !important;
+}
